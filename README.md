@@ -1,6 +1,6 @@
 # FunNotes
 
-**Strucutred notes for various topics**
+**Structured notes for various topics**
 
 - [CP](CP.md)
 - [AI](AI.md)
